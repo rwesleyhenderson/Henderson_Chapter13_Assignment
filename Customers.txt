@@ -1,0 +1,4 @@
+45,Bob,Parson,50.2
+80,Rick,Astley,12.12
+90,Sam,Parson,90.9
+72,Elena,Barley,1.0
